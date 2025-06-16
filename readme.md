@@ -1,6 +1,13 @@
+
+# ![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/131073044?v=4&h=32&w=32&fit=cover&mask=circle&maxage=7d) Alexsander Allekstat
+
+1. Desenvolvedor HTML, CSS, JavaScript, PHP, MySQL
+2. Ferramentas Git, VSCode, Bootstrap, JQuery, HeidiSQL
+3. Estagiário em NautaSoftware
+
 ## Projetos atuais
 
-- Nenhum<!--Página Diretor Alfred Hitchcock-->
+- Projeto em PHP de Marcenaria
 
 ### Links
 
