@@ -7,11 +7,12 @@
 
 ## Projetos atuais
 
-- Projeto em PHP de Marcenaria
+- Nenhum
 
 ### Links
 
 - [MarkDown Guide](https://www.markdownguide.org/)
+- [GitHub Docs](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <!--
 **allekstat/allekstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
